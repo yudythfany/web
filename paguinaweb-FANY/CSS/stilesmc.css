@@ -1,0 +1,136 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+body{
+	background: #6d0505;
+	font-family: verdana;
+}
+
+.contenedor{
+	width: 90%;
+	margin: 10px auto;
+
+}
+
+header{
+	width: 100%;
+	height: 120px;
+	background:;
+	color:;
+	float: left;
+	
+}
+
+.logo{
+	margin: 15px;
+	float: left;
+}
+
+.titulo{
+	margin:40px;
+}
+
+nav{
+	width: 100%;
+	height: 80px;
+
+	background: ;
+	color: white;
+	float: left;
+	margin: 5px 0 0 0 ;
+
+}
+
+.opciones{
+	background: palevioletred;
+	margin: auto;
+	overflow: hidden;
+}
+.opciones, li{
+float: right;
+list-style: none;
+}
+
+.opciones li a{
+color: white;
+padding: 6px 10px;
+text-decoration: none;
+display: block;
+}
+
+.opciones li a:hover {
+color: white;
+background: rosybrown;
+border-radius: 10px;
+}
+
+
+section{
+	width: 68%;
+	height: 350px
+	color: white;
+	float: left;
+	margin: 5px 0 0 0 ;
+
+}
+
+.contenido img{
+	float: left;
+	padding: 10px;
+}
+
+.contenido p{
+	padding:20px;
+}
+ legend{
+ 	margin-top: 15px;
+ 	color: red;
+ 	text-align: center;
+ }
+
+hr{
+	width: 300px;
+	margin: auto;
+
+}
+
+
+aside{
+	width: 30%;
+	height: 635px;
+	border: ;
+	background:;
+	color:white;
+	float: left;
+	margin: 20px 15px ;
+
+}
+
+.lateral video{
+    float: left;
+	padding:  0 90px;
+}
+
+small{
+
+	color: ;
+}
+
+
+
+footer{
+	width: 100%;
+	height: 80px;
+	border: ;
+	background:;
+	color: white;
+	float: left;
+	border-radius: 0 0  10px 10px ;
+}
+
+.foot p{
+	text-align: center;
+	padding: 20px;
+	color: black;
+}
